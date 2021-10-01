@@ -4,4 +4,4 @@
 + VGA       显示屏
 + VS1003B   MP3
 ## 相关介绍
-http://wenweb.ahy1.top/index.php/2021/01/29/musicgame/
+[说明文档](http://150.158.179.219/index.php/2021/01/29/musicgame/)
